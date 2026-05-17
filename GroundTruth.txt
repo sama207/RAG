@@ -1,0 +1,10 @@
+﻿1. Question: Which candidates have experience in backend development using Django or Spring Boot?
+Answer: Lucas Walker worked on backend development using Django for a health clinic admin dashboard, while Chloe Roberts used Spring Boot and MySQL to build the “HopeConnect” REST API project.
+2. Question: Which candidates have worked on mobile application development projects?
+Answer: Daniel Green developed a Fitness Management app using Flutter, Dart, and Firebase, and Aria Parker built the “Matbakhna App,” a recipe and cooking guidance mobile application using Flutter and Firebase.
+3. Question: Which candidates have experience with software testing or QA automation tools?
+Answer: Lucas Walker has experience using Selenium and Playwright for automation testing frameworks, while Noah Thompson worked with Selenium WebDriver, Cypress with Cucumber, and Appium for QA automation.
+4. Question: Which candidates have developed full-stack web applications?
+Answer: Stella Rivera developed a full-stack “HopeConnect” application using Node.js, Express.js, and React, while Lucas Walker worked on full-stack healthcare dashboard systems using Django and frontend integration.
+5. Question: Which candidates have experience integrating Firebase into their applications?
+Answer: Daniel Green used Firebase for authentication and synchronization in a Fitness app, and Aria Parker integrated Firebase into the “Matbakhna App” for recipe management and user interaction features.
