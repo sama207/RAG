@@ -283,20 +283,6 @@ docker run -p 8000:8000 cv-rag-app
 
 ---
 
-# Future Improvements
-
-- Authentication system
-- Multi-user chat sessions
-- Upload new CVs dynamically
-- Better UI/UX design
-- Conversation memory
-- Candidate ranking system
-- Evaluation metrics dashboard
-- Hybrid search
-- Redis caching
-
----
-
 # Notes
 
 - The embedding model and Pinecone index are loaded once during startup.
