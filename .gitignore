@@ -3,4 +3,5 @@ material
 *.tar.gz
 __pycache__
 resumes
-GroundTruth
+GroundTrut
+.env
